@@ -1,0 +1,60 @@
+{
+	"@odata.context" : "https://216.128.150.152/fmi/odata/v4/GSR_Gaskets Rock_Sandbox/$metadata#Locations(\"Tags\",\"Location_Name\",\"__kp_Location\",\"_kf_Customer\",\"Customer_Name\")",
+	"value" : 
+	[
+		{
+			"@odata.editLink" : "https://216.128.150.152/fmi/odata/v4/GSR_Gaskets%20Rock_Sandbox/Locations(7196)",
+			"@odata.id" : "https://216.128.150.152/fmi/odata/v4/GSR_Gaskets Rock_Sandbox/Locations(7196)",
+			"Customer_Name" : null,
+			"Location_Name" : "Romano's Macaroni Grill - Edison CLOSED",
+			"Tags" : "\rProspect",
+			"__kp_Location" : 7196,
+			"_kf_Customer" : 2947
+		},
+		{
+			"@odata.editLink" : "https://216.128.150.152/fmi/odata/v4/GSR_Gaskets%20Rock_Sandbox/Locations(15296)",
+			"@odata.id" : "https://216.128.150.152/fmi/odata/v4/GSR_Gaskets Rock_Sandbox/Locations(15296)",
+			"Customer_Name" : null,
+			"Location_Name" : "Texas Roadhouse - Seaford, DE #381",
+			"Tags" : "\rPirates",
+			"__kp_Location" : 15296,
+			"_kf_Customer" : 2947
+		},
+		{
+			"@odata.editLink" : "https://216.128.150.152/fmi/odata/v4/GSR_Gaskets%20Rock_Sandbox/Locations(19028)",
+			"@odata.id" : "https://216.128.150.152/fmi/odata/v4/GSR_Gaskets Rock_Sandbox/Locations(19028)",
+			"Customer_Name" : null,
+			"Location_Name" : "Smashburger Neptune CLOSED",
+			"Tags" : "\rSteelers",
+			"__kp_Location" : 19028,
+			"_kf_Customer" : 2947
+		},
+		{
+			"@odata.editLink" : "https://216.128.150.152/fmi/odata/v4/GSR_Gaskets%20Rock_Sandbox/Locations(20735)",
+			"@odata.id" : "https://216.128.150.152/fmi/odata/v4/GSR_Gaskets Rock_Sandbox/Locations(20735)",
+			"Customer_Name" : null,
+			"Location_Name" : "Red Robin - Exton, PA - LOCATION CLOSED",
+			"Tags" : "\rProspect\rBig Money\rESPN",
+			"__kp_Location" : 20735,
+			"_kf_Customer" : 2947
+		},
+		{
+			"@odata.editLink" : "https://216.128.150.152/fmi/odata/v4/GSR_Gaskets%20Rock_Sandbox/Locations(22416)",
+			"@odata.id" : "https://216.128.150.152/fmi/odata/v4/GSR_Gaskets Rock_Sandbox/Locations(22416)",
+			"Customer_Name" : null,
+			"Location_Name" : "Smashburger - Brookhaven, PA- closed",
+			"Tags" : "\rBig Money",
+			"__kp_Location" : 22416,
+			"_kf_Customer" : 2947
+		},
+		{
+			"@odata.editLink" : "https://216.128.150.152/fmi/odata/v4/GSR_Gaskets%20Rock_Sandbox/Locations(27779)",
+			"@odata.id" : "https://216.128.150.152/fmi/odata/v4/GSR_Gaskets Rock_Sandbox/Locations(27779)",
+			"Customer_Name" : null,
+			"Location_Name" : "Applebees - (CLOSED)",
+			"Tags" : "\rVIP\rProspect",
+			"__kp_Location" : 27779,
+			"_kf_Customer" : 2944
+		}
+	]
+}
